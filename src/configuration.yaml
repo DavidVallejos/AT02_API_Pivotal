@@ -1,0 +1,5 @@
+PivotalTrackerAPI:
+  :url: "https://www.pivotaltracker.com/services/v5/"
+  :time_out: 180
+  :token: "d0d64d4c080992ac0bf9c873308024d3"
+  :key: "X-TrackerToken"
